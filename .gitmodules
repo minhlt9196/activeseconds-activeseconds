@@ -12,13 +12,13 @@
 	url = https://github.com/minhlt9196/activeseconds-aw-server
 [submodule "aw-server-rust"]
 	path = aw-server-rust
-	url = https://github.com/minhlt9196/aw-server-rust.git
+	url = https://github.com/minhlt9196/activeseconds-aw-server-rust
 [submodule "aw-watcher-afk"]
 	path = aw-watcher-afk
-	url = https://github.com/minhlt9196/aw-watcher-afk.git
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-afk
 [submodule "aw-watcher-window"]
 	path = aw-watcher-window
-	url = https://github.com/minhlt9196/aw-watcher-window.git
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-window
 [submodule "activeseconds-aw-core"]
 	path = activeseconds-aw-core
 	url = https://github.com/minhlt9196/activeseconds-aw-core
