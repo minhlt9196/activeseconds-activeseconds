@@ -1,0 +1,48 @@
+[submodule "aw-client"]
+	path = aw-client
+	url = https://github.com/minhlt9196/activeseconds-aw-client
+[submodule "aw-core"]
+	path = aw-core
+	url = https://github.com/minhlt9196/activeseconds-aw-core
+[submodule "aw-qt"]
+	path = aw-qt
+	url = https://github.com/minhlt9196/activeseconds-aw-qt
+[submodule "aw-server"]
+	path = aw-server
+	url = https://github.com/minhlt9196/activeseconds-aw-server
+[submodule "aw-server-rust"]
+	path = aw-server-rust
+	url = https://github.com/minhlt9196/aw-server-rust.git
+[submodule "aw-watcher-afk"]
+	path = aw-watcher-afk
+	url = https://github.com/minhlt9196/aw-watcher-afk.git
+[submodule "aw-watcher-window"]
+	path = aw-watcher-window
+	url = https://github.com/minhlt9196/aw-watcher-window.git
+[submodule "activeseconds-aw-core"]
+	path = activeseconds-aw-core
+	url = https://github.com/minhlt9196/activeseconds-aw-core
+[submodule "activeseconds-aw-server"]
+	path = activeseconds-aw-server
+	url = https://github.com/minhlt9196/activeseconds-aw-server
+[submodule "activeseconds-aw-watcher-afk"]
+	path = activeseconds-aw-watcher-afk
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-afk
+[submodule "activeseconds-aw-qt"]
+	path = activeseconds-aw-qt
+	url = https://github.com/minhlt9196/activeseconds-aw-qt
+[submodule "activeseconds-aw-server-rust"]
+	path = activeseconds-aw-server-rust
+	url = https://github.com/minhlt9196/activeseconds-aw-server-rust
+[submodule "activeseconds-aw-watcher-window"]
+	path = activeseconds-aw-watcher-window
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-window
+[submodule "watcher-afk"]
+	path = watcher-afk
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-afk
+[submodule "server-rust"]
+	path = server-rust
+	url = https://github.com/minhlt9196/activeseconds-aw-server-rust
+[submodule "watcher-window"]
+	path = watcher-window
+	url = https://github.com/minhlt9196/activeseconds-aw-watcher-window
